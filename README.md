@@ -1,4 +1,4 @@
-# numtel:es6-proxy
+# numtel:es6-proxy [![Build Status](https://travis-ci.org/numtel/meteor-es6-proxy.svg?branch=master)](https://travis-ci.org/numtel/meteor-es6-proxy)
 
 Iron:Router Plugin for rendering transpiled ES6 -> ES5 to the client.
 
@@ -25,6 +25,7 @@ You may then load files (most-likely, using AJAX) from that directory using the 
 
 ## Resources
 
+* [On-Demand Template Example](https://github.com/numtel/meteor-component-example) - Use this package to load templates on-demand with `iron:router`.
 * [sharlon:6to5](https://github.com/sbalbalosa/meteor-6to5) - Use ES6 in your main application source files
 * [6to5.org](http://6to5.org) - Core package powering ES6 -> ES5 transpiling
 
