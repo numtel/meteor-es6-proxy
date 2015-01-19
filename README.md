@@ -23,6 +23,14 @@ You may then load files (most-likely, using AJAX) from that directory using the 
 /_6to5?path=<filename>
 ```
 
+## TODO
+
+* `allow()` function for setting permissions on individual files/paths
+* Option to configure route URL (currently `_6to5`)
+* Minify output on production
+* Cache processed results for between clients
+* Hot code push?
+
 ## Resources
 
 * [On-Demand Template Example](https://github.com/numtel/meteor-component-example) - Use this package to load templates on-demand with `iron:router`.
