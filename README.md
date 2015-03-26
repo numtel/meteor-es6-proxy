@@ -4,9 +4,12 @@ Iron:Router Plugin for rendering transpiled ES6 -> ES5 to the client.
 
 ## Installation
 
-```
-meteor add numtel:es6-proxy
-```
+This package has been removed from Atmosphere and has been succeeded by other packages:
+
+* [`numtel:privatesources` package](https://github.com/numtel/meteor-privatesources) - Create bundles for lazy-loading components, with authentication
+* [`numtel:publicsources` package](https://github.com/numtel/meteor-publicsources) - Same except without authentication
+
+If you really must use this, clone the repo.
 
 Activate the plugin on the server-side of your application:
 ```javascript
